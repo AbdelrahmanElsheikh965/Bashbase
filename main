@@ -42,7 +42,7 @@ do
 
         "Exit")
             echo "Exiting...🚪"
-            break
+            exit
         ;;
         *)
             echo "Invalid option, only choose allowable index number"
