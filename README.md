@@ -21,4 +21,5 @@ Once a user connects to a specific database, a new interface will be presented, 
 
 Todo: 
 1. How to deploy such a CLI app in a regular HTML page online.
-2. Make GUI for this simple DBMS
+2. Make GUI for this simple DBMS.
+3. Try to run REAL SQL commands in this app.
