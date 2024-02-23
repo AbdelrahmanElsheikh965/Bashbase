@@ -19,4 +19,6 @@ Once a user connects to a specific database, a new interface will be presented, 
 * Removing data from a table
 * Updating existing data within a table  
 
-Todo: How to deploy such a CLI app in a regular HTML page online.
+Todo: 
+1. How to deploy such a CLI app in a regular HTML page online.
+2. Make GUI for this simple DBMS
