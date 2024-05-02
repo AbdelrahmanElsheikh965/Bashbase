@@ -1,4 +1,4 @@
-# Bash-Base Database Management System (DBMS):
+# Database Management System in Bash (DBMS):
 
 The project's objective is to create a Database Management System (DBMS) on RHEL9(Plow) Distro that facilitates users in storing and retrieving data stored on a hard disk.
 The project's main features include the development of a Command Line Interface (CLI) menu-based application. This application will offer various menu options accessible to users:
